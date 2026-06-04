@@ -2,10 +2,9 @@ import java.util.Scanner;
 
 public class FizzBuzz {
     public static void main(String[] args) {
-        int number;
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter a number: ");
-            number = input.nextInt();
+            int number = input.nextInt();
 
             if (number % 15 == 0) {
                 System.out.println("FizzBuzz");
