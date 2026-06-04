@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class weightConverter {
-    static double weight;
     final static double kgEquivalent = 0.453592;
     final static double lbsEquivalent = 2.204621;
 
     public static void main(String[] args) {
+        double weight;
         System.out.println("Welcome to my weight conversion program!");
 
         try (Scanner input = new Scanner(System.in)) {
