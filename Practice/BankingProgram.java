@@ -1,3 +1,4 @@
+package Practice;
 import java.util.Scanner;                                                           // Scanner method
 
 public class BankingProgram {

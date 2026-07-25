@@ -1,3 +1,4 @@
+package Practice;
 import java.util.Arrays;                                                // Class to deal with Arrays
 import java.util.Scanner;                                               // Class to deal with user input
 

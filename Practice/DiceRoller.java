@@ -1,3 +1,4 @@
+package Practice;
 import Dice.Die;
 import java.util.Random;
 import java.util.Scanner;

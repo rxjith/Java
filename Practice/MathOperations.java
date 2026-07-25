@@ -1,3 +1,4 @@
+package Practice;
 public class MathOperations {
     public static void main(String[] args) {
         // Rounding

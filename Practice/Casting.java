@@ -1,3 +1,4 @@
+package Practice;
 public class Casting {
     public static void main(String[] args) {
         // Priority: byte > short > int > long > float > double
