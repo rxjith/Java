@@ -1,13 +1,13 @@
 package module2;
 
-class A {
+class Atest {
 	int i, j;
 	void showij() {
 		System.out.println("i & j: " + i + " " + j);
 	}
 }
 
-class B extends A {
+class B extends Atest {
 	int k;
 	void showk() {
 		System.out.println("i: " + i + " j: " + j + " k: " + k);
