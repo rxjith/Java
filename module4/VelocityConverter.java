@@ -34,6 +34,7 @@ public class VelocityConverter extends JFrame implements ActionListener {
 		p.add(velocityAnsLabel);
 		
 		add(p);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(600, 200);
 		setVisible(true);
 	}
