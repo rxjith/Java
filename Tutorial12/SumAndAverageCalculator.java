@@ -15,7 +15,7 @@ class InvalidNumberException extends Exception {
     }
 }
 
-public class ExceptionHandling1 {
+public class SumAndAverageCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
